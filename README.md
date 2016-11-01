@@ -1,6 +1,7 @@
 # SimpleContactForm
 simple contact form with PHPMailer validation
 
-![alt tag](https://github.com/burziszcze/SimpleContactForm/contact_form.png)
+![Alt text](/relative/path/to/contact_form.png?raw=true "Contact Form image")
+
 
 
